@@ -83,4 +83,4 @@ Python 3.8+ recommended.
 
 ## License
 
-MIT (or adapt to your internal policy).
+See License File
