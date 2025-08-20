@@ -34,7 +34,7 @@ from getpass import getpass
 from typing import List, Tuple, Optional
 
 from netmiko import ConnectHandler
-from netmiko.ssh_exception import NetmikoTimeoutException, NetmikoAuthenticationException
+from netmiko import NetmikoTimeoutException, NetmikoAuthenticationException
 
 # ---------- Helpers ----------
 
